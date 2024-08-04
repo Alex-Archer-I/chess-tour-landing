@@ -1,0 +1,10 @@
+:root {
+    --text-color: #313131;
+    --btn-color: #1f1f1f;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}

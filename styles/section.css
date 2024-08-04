@@ -1,0 +1,9 @@
+.section {
+    width: 1366px;
+    padding: 0 72px;
+    margin: 0 auto;
+}
+
+.section__content--hero {
+    width: 522px;
+}
